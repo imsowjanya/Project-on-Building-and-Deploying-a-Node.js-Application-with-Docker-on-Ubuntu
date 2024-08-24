@@ -15,7 +15,7 @@ Command-
 
 ![image](https://user-images.githubusercontent.com/63364609/233578333-eecf8886-ba78-4204-bb4c-f1637a24aee6.png)
  
-Step 2 : Clone the code from Github
+Step 2 : Clone the code from Github.
 The code for the project is cloned from GitHub using the command 'git clone <repository_url>'. In this case, the repository URL is,
 https://github.com/LondheShubham153/node-todo-cicd.git
  
